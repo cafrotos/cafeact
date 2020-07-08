@@ -1,0 +1,24 @@
+{
+  "name": "cafeact",
+  "version": "1.0.0",
+  "description": "## Introduction Template base on Ant Design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhphuong99/cafeact.git"
+  },
+  "keywords": [],
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhphuong99/cafeact/issues"
+  },
+  "homepage": "https://github.com/minhphuong99/cafeact#readme"
+}
