@@ -44,9 +44,14 @@ export default (_getConfigs, _initialState = {}) => {
     })
   }
 
+  const _effectReloadData = (_params) => () => {
+    _reloadData(_params);
+    return _cancelRequest.cancel
+  }
+
   return [
     state,
     _reloadData,
-    _cancelRequest.cancel
+    _effectReloadData
   ]
 }
