@@ -1,7 +1,7 @@
 # Cafeact template
 
 ## Introduction
-Template base on Ant Design
+Template based on Ant Design and using Atomic Design
 
 ## Usages
 

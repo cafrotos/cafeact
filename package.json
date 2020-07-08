@@ -1,24 +1,27 @@
 {
-  "name": "cafeact",
-  "version": "1.0.1",
+  "name": "cra-template-cafeactest",
+  "version": "0.0.2",
+  "main": "template.json",
   "description": "## Introduction Template base on Ant Design",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/minhphuong99/cafeact.git"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
   "files": [
     "template",
     "template.json"
   ],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/minhphuong99/cafeact/issues"
   },
-  "homepage": "https://github.com/minhphuong99/cafeact#readme"
+  "homepage": "https://github.com/minhphuong99/cafeact#readme",
+  "engines": {
+    "node": ">=10"
+  }
 }
